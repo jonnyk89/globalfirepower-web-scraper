@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GlobalFirePower")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2b9271aa19ffb4a13755f97c8432e3a4d3fd6b8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c6b4d9889be26584a2399b5c1470344dd3d3188")]
 [assembly: System.Reflection.AssemblyProductAttribute("GlobalFirePower")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GlobalFirePower")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

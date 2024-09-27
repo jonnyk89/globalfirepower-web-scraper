@@ -9,6 +9,27 @@
       Title="Menu">
 
     <Grid>
-        <Label>This is the Menu page</Label>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="260" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250" />
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="180" />
+            <ColumnDefinition Width="20" />
+            <ColumnDefinition Width="180" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Label Grid.Row="1" Grid.Column="0">This is the Menu page</Label>
+        <ListBox x:Name="countryList" Grid.Row="6" Grid.Column="2" SelectionChanged="countryList_SelectionChanged">
+
+        </ListBox>
     </Grid>
 </Page>

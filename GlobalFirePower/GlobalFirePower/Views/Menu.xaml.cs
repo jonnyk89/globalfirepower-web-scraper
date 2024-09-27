@@ -23,6 +23,12 @@ namespace GlobalFirePower.Views
         public Menu()
         {
             InitializeComponent();
+            LoadCountries();
+        }
+
+        private void LoadCountries()
+        {
+
         }
     }
 }

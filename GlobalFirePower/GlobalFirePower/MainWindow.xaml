@@ -6,6 +6,5 @@
         xmlns:local="clr-namespace:GlobalFirePower"
         mc:Ignorable="d"
         Title="Global Fire Power" Height="450" Width="800">
-    <Grid>
-    </Grid>
+    
 </Window>
