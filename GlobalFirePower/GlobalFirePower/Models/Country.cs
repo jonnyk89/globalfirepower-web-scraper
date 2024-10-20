@@ -8,8 +8,8 @@ namespace GlobalFirePower.Models
 {
     public class Country
     {
-        public int CountrId { get; set; }
-        public string CountryName { get; set; }
+        public int Id { get; set; }
+        public string Name { get; set; }
         public int Rank { get; set; }
 
         // Financials
@@ -32,6 +32,7 @@ namespace GlobalFirePower.Models
         public string TotalMilitaryPersonnel { get; set; }
         public string ActivePersonnel { get; set; }
         public string ReservePersonnel { get; set; }
+        public string Paramilitary { get; set; }
         public string AirforcePersonnel { get; set; }
         public string ArmyPersonnel { get; set; }
         public string NavyPersonnel { get; set; }

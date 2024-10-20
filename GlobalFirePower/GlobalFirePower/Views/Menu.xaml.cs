@@ -1,4 +1,6 @@
-﻿using System;
+﻿using GlobalFirePower.Controllers;
+using GlobalFirePower.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -27,6 +29,14 @@ namespace GlobalFirePower.Views
         }
 
         private void LoadCountries()
+        {
+            CountryController countryController = new CountryController();
+            List<Country> countries = countryController.GetAllCountries();
+
+            countries.ForEach(c => countryList.Items.Add(c.Name));
+        }
+
+        private void countryList_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
 
         }

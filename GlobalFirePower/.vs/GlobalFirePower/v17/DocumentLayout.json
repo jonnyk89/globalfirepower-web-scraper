@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{263A0B30-79D9-4A7F-AE73-6D3C6F7ECC25}|GlobalFirePower\\GlobalFirePower.csproj|solutionrelative:globalfirepower\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{263A0B30-79D9-4A7F-AE73-6D3C6F7ECC25}|GlobalFirePower\\GlobalFirePower.csproj|c:\\users\\user\\documents\\github\\globalfirepower-web-scraper\\globalfirepower\\globalfirepower\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{263A0B30-79D9-4A7F-AE73-6D3C6F7ECC25}|GlobalFirePower\\GlobalFirePower.csproj|solutionrelative:globalfirepower\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{263A0B30-79D9-4A7F-AE73-6D3C6F7ECC25}|GlobalFirePower\\GlobalFirePower.csproj|c:\\users\\user\\documents\\github\\globalfirepower-web-scraper\\globalfirepower\\globalfirepower\\models\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263A0B30-79D9-4A7F-AE73-6D3C6F7ECC25}|GlobalFirePower\\GlobalFirePower.csproj|solutionrelative:globalfirepower\\models\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{263A0B30-79D9-4A7F-AE73-6D3C6F7ECC25}|GlobalFirePower\\GlobalFirePower.csproj|c:\\users\\user\\documents\\github\\globalfirepower-web-scraper\\globalfirepower\\globalfirepower\\views\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,6 +23,10 @@
       "RelativeMoniker": "D:0:0:{263A0B30-79D9-4A7F-AE73-6D3C6F7ECC25}|GlobalFirePower\\GlobalFirePower.csproj|solutionrelative:globalfirepower\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{263A0B30-79D9-4A7F-AE73-6D3C6F7ECC25}|GlobalFirePower\\GlobalFirePower.csproj|c:\\users\\user\\documents\\github\\globalfirepower-web-scraper\\globalfirepower\\globalfirepower\\controllers\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263A0B30-79D9-4A7F-AE73-6D3C6F7ECC25}|GlobalFirePower\\GlobalFirePower.csproj|solutionrelative:globalfirepower\\controllers\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{263A0B30-79D9-4A7F-AE73-6D3C6F7ECC25}|GlobalFirePower\\GlobalFirePower.csproj|c:\\users\\user\\documents\\github\\globalfirepower-web-scraper\\globalfirepower\\globalfirepower\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{263A0B30-79D9-4A7F-AE73-6D3C6F7ECC25}|GlobalFirePower\\GlobalFirePower.csproj|solutionrelative:globalfirepower\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -33,31 +37,41 @@
     {
       "AbsoluteMoniker": "D:0:0:{263A0B30-79D9-4A7F-AE73-6D3C6F7ECC25}|GlobalFirePower\\GlobalFirePower.csproj|c:\\users\\user\\documents\\github\\globalfirepower-web-scraper\\globalfirepower\\globalfirepower\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{263A0B30-79D9-4A7F-AE73-6D3C6F7ECC25}|GlobalFirePower\\GlobalFirePower.csproj|solutionrelative:globalfirepower\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\globalfirepower-web-scraper\\GlobalFirePower\\GlobalFirePower\\Models\\Country.cs",
-              "RelativeDocumentMoniker": "GlobalFirePower\\Models\\Country.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\globalfirepower-web-scraper\\GlobalFirePower\\GlobalFirePower\\Models\\Country.cs",
-              "RelativeToolTip": "GlobalFirePower\\Models\\Country.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\globalfirepower-web-scraper\\GlobalFirePower\\GlobalFirePower\\Models\\Constants.cs",
+              "RelativeDocumentMoniker": "GlobalFirePower\\Models\\Constants.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\globalfirepower-web-scraper\\GlobalFirePower\\GlobalFirePower\\Models\\Constants.cs",
+              "RelativeToolTip": "GlobalFirePower\\Models\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T01:24:17.45Z",
+              "WhenOpened": "2024-10-19T23:23:21.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\globalfirepower-web-scraper\\GlobalFirePower\\GlobalFirePower\\Controllers\\Helpers.cs",
+              "RelativeDocumentMoniker": "GlobalFirePower\\Controllers\\Helpers.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\globalfirepower-web-scraper\\GlobalFirePower\\GlobalFirePower\\Controllers\\Helpers.cs",
+              "RelativeToolTip": "GlobalFirePower\\Controllers\\Helpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:42:13.707Z",
               "EditorCaption": ""
             },
             {
@@ -66,9 +80,9 @@
               "Title": "CountryController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\globalfirepower-web-scraper\\GlobalFirePower\\GlobalFirePower\\Controllers\\CountryController.cs",
               "RelativeDocumentMoniker": "GlobalFirePower\\Controllers\\CountryController.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\globalfirepower-web-scraper\\GlobalFirePower\\GlobalFirePower\\Controllers\\CountryController.cs",
-              "RelativeToolTip": "GlobalFirePower\\Controllers\\CountryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\globalfirepower-web-scraper\\GlobalFirePower\\GlobalFirePower\\Controllers\\CountryController.cs*",
+              "RelativeToolTip": "GlobalFirePower\\Controllers\\CountryController.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T01:23:24.983Z",
               "EditorCaption": ""
@@ -81,7 +95,7 @@
               "RelativeDocumentMoniker": "GlobalFirePower\\Views\\Menu.xaml.cs",
               "ToolTip": "C:\\Users\\USER\\Documents\\GitHub\\globalfirepower-web-scraper\\GlobalFirePower\\GlobalFirePower\\Views\\Menu.xaml.cs",
               "RelativeToolTip": "GlobalFirePower\\Views\\Menu.xaml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAhwCMAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T01:11:52.891Z",
               "EditorCaption": ""
@@ -100,19 +114,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ResourcePart.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
-              "ToolTip": "C:\\Users\\USER\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAUwCgAAAAEAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T06:54:30.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\globalfirepower-web-scraper\\GlobalFirePower\\GlobalFirePower\\MainWindow.xaml",
@@ -125,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Generic.xaml",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\globalfirepower-web-scraper\\GlobalFirePower\\GlobalFirePower\\Themes\\Generic.xaml",
               "RelativeDocumentMoniker": "GlobalFirePower\\Themes\\Generic.xaml",
@@ -137,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\globalfirepower-web-scraper\\GlobalFirePower\\GlobalFirePower\\App.xaml",
               "RelativeDocumentMoniker": "GlobalFirePower\\App.xaml",
@@ -149,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\GitHub\\globalfirepower-web-scraper\\GlobalFirePower\\GlobalFirePower\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "GlobalFirePower\\MainWindow.xaml.cs",

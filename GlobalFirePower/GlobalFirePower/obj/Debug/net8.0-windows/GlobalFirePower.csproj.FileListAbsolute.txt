@@ -22,3 +22,7 @@ C:\Users\USER\Documents\GitHub\globalfirepower-web-scraper\GlobalFirePower\Globa
 C:\Users\USER\Documents\GitHub\globalfirepower-web-scraper\GlobalFirePower\GlobalFirePower\obj\Debug\net8.0-windows\Views\Menu.g.cs
 C:\Users\USER\Documents\GitHub\globalfirepower-web-scraper\GlobalFirePower\GlobalFirePower\obj\Debug\net8.0-windows\Views\Menu.baml
 C:\Users\USER\Documents\GitHub\globalfirepower-web-scraper\GlobalFirePower\GlobalFirePower\obj\Debug\net8.0-windows\Themes\Generic.baml
+C:\Users\USER\Documents\GitHub\globalfirepower-web-scraper\GlobalFirePower\GlobalFirePower\obj\Debug\net8.0-windows\GlobalFirePower.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\GitHub\globalfirepower-web-scraper\GlobalFirePower\GlobalFirePower\bin\Debug\net8.0-windows\Dapper.dll
+C:\Users\USER\Documents\GitHub\globalfirepower-web-scraper\GlobalFirePower\GlobalFirePower\bin\Debug\net8.0-windows\HtmlAgilityPack.dll
+C:\Users\USER\Documents\GitHub\globalfirepower-web-scraper\GlobalFirePower\GlobalFirePower\obj\Debug\net8.0-windows\GlobalFi.CFD65CC9.Up2Date

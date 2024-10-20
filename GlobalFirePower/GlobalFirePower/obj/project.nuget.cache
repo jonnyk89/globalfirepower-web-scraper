@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "OWJErHwHfMg=",
+  "dgSpecHash": "t7o3+EI5Cg8=",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\Documents\\GitHub\\globalfirepower-web-scraper\\GlobalFirePower\\GlobalFirePower\\GlobalFirePower.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\htmlagilitypack\\1.11.66\\htmlagilitypack.1.11.66.nupkg.sha512"
   ],
   "logs": []
